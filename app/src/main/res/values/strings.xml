@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Art Space App</string>
+    <string name="artwork1">Amazing birthday logo</string>
+    <string name="artwork2">Taotech Solutions Pictures</string>
+    <string name="artwork3">Akintunde Taofeek Picture</string>
+    <string name="artist1">Taotech Solution (2022)</string>
+    <string name="artist2">Taotech Solutions (2016)</string>
+    <string name="artist3">Taotechs (2021)</string>
+</resources>
